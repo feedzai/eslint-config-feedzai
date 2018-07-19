@@ -1,5 +1,7 @@
 # eslint-config-feedzai
 
+[![Build Status](https://travis-ci.com/feedzai/eslint-config-feedzai.svg?branch=master)](https://travis-ci.com/feedzai/eslint-config-feedzai)
+
 This repository contains the ESLint configuration used across products at Feedzai.
 We share this configuration to promote the use of linters in JavaScript and to share our conventions and best practices in the hope of inspiring others when defining their configurations.
 

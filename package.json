@@ -1,0 +1,26 @@
+{
+  "name": "eslint-configs-feedzai",
+  "version": "1.0.0",
+  "description": "Feedzai's ESLint configuration files",
+  "main": "index.js",
+  "scripts": {
+    "lint:eslint-config-feedzai": "cd ./eslint-config-feedzai && npm run travis",
+    "lint": "npm run lint:eslint-config-feedzai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedzai/eslint-config-feedzai.git"
+  },
+  "keywords": [
+    "feedzai",
+    "lint",
+    "eslint",
+    "javascript"
+  ],
+  "author": "Victor Fernandes <victor.fernandes@feedzai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedzai/eslint-config-feedzai/issues"
+  },
+  "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme"
+}
