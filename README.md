@@ -1,14 +1,15 @@
 # eslint-config-feedzai
 
-This package provides the ESLint configurations as an extensible shared configuration that could be used by everyone and across the Feedzai's products.
+This repository contains the ESLint configuration used across products at Feedzai.
+We share this configuration to promote the use of linters in JavaScript and to share our conventions and best practices in the hope of inspiring others when defining their configurations.
 
 This repo includes two distinct ESLint configurations:
 
-- `eslint-config-feedzai`- This package contains our ESLint rules, including the ones for ECMAScript 6+. 
+- `eslint-config-feedzai`- This configuration contains our ESLint rules, including the ones for ECMAScript 6+. 
 If you're using React in your projects please check the `eslint-config-feedzai-react`.
 This packages requires `eslint` and `eslint-plugin-import`.
 
-- `eslint-config-feedzai-react` - This package extends the `eslint-config-feedzai` and includes the rules for React, a11y and Jest.
+- `eslint-config-feedzai-react` - This configuration extends the `eslint-config-feedzai` and includes the rules for React, a11y and Jest.
 This package requires `eslint`, `eslint-config-feedzai`, `eslint-plugin-import`, `eslint-plugin-jest`, `eslint-plugin-jsx-a11y` and  `eslint-plugin-react`.
 
 ## Usage
