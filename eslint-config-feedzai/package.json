@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-feedzai",
+  "version": "1.0.0",
+  "description": "Feedzai's base JS ESLint extensible configuration",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint -c index.js .",
+    "deploy:tasks": "npm run lint",
+    "deploy:publish": "npm publish && git push && git push --tags",
+    "deploy:major": "npm run deploy:tasks && npm version major && npm run deploy:publish",
+    "deploy:minor": "npm run deploy:tasks && npm version minor && npm run deploy:publish",
+    "deploy:patch": "npm run deploy:tasks && npm version patch && npm run deploy:publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedzai/eslint-config-feedzai.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "styleguide",
+    "feedzai"
+  ],
+  "author": "Victor Fernandes <victor.fernandes@feedzai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedzai/eslint-config-feedzai/issues"
+  },
+  "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
