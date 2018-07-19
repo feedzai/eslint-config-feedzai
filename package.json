@@ -4,7 +4,7 @@
   "description": "Feedzai's ESLint configuration files",
   "main": "index.js",
   "scripts": {
-    "lint:eslint-config-feedzai": "cd ./eslint-config-feedzai && npm run lint",
+    "lint:eslint-config-feedzai": "cd ./eslint-config-feedzai && npm run travis",
     "lint": "npm run lint:eslint-config-feedzai"
   },
   "repository": {

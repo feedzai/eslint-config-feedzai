@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint -c index.js .",
+    "travis": "npm install && npm run lint",
     "deploy:tasks": "npm run lint",
     "deploy:publish": "npm publish && git push && git push --tags",
     "deploy:major": "npm run deploy:tasks && npm version major && npm run deploy:publish",
