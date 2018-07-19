@@ -51,6 +51,6 @@ You can check if those packages follow our coding style conventions by using `np
 
 The available commands are:
 
-- `deploy:major` - creates a git tag and publish the X.0.0 version. _This command should be executed only in the `master branch._
+- `deploy:major` - creates a git tag and publish the X.0.0 version. _This command should be executed only in the `master` branch._
 - `deploy:minor` - creates a git tag and publish the X.Y.0 version. _This command should be executed in the hot-fix branches (`hf-X.x.x`)._
 - `deploy:patch` - creates a git tag and publish the X.Y.Z version. _This command should be executed in the hot-fix branches (`hf-X.x.x`)._
