@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config-feedzai",
-  "version": "1.0.0",
+  "name": "@feedzai/eslint-config-feedzai",
+  "version": "0.0.0",
   "description": "Feedzai's base JS ESLint extensible configuration",
   "main": "index.js",
   "scripts": {
     "lint": "eslint -c index.js .",
     "travis": "npm install && npm run lint",
     "deploy:tasks": "npm run lint",
-    "deploy:publish": "npm publish && git push && git push --tags",
+    "deploy:publish": "npm publish --access public && git push && git push --tags",
     "deploy:major": "npm run deploy:tasks && npm version major && npm run deploy:publish",
     "deploy:minor": "npm run deploy:tasks && npm version minor && npm run deploy:publish",
     "deploy:patch": "npm run deploy:tasks && npm version patch && npm run deploy:publish"
