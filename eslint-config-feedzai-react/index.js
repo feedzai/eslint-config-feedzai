@@ -7,7 +7,7 @@
 
 module.exports = {
     extends: [
-        "eslint-config-feedzai",
+        "@feedzai/eslint-config-feedzai",
         "./rules/jest",
         "./rules/react",
         "./rules/react-a11y"
