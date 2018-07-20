@@ -9,4 +9,5 @@ node_js:
 cache:
   directories:
     - eslint-config-feedzai/node_modules
+    - eslint-config-feedzai-react/node_modules
 script: npm run lint
