@@ -1,0 +1,48 @@
+{
+  "name": "@feedzai/eslint-config-feedzai-react",
+  "version": "0.0.0",
+  "description": "Feedzai's React ESLint extensible configuration",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint -c ../eslint-config-feedzai/index.js .",
+    "travis": "npm install && npm run lint",
+    "deploy:tasks": "npm run lint",
+    "deploy:publish": "npm publish --access public && git push && git push --tags",
+    "deploy:major": "npm run deploy:tasks && npm version major && npm run deploy:publish",
+    "deploy:minor": "npm run deploy:tasks && npm version minor && npm run deploy:publish",
+    "deploy:patch": "npm run deploy:tasks && npm version patch && npm run deploy:publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedzai/eslint-config-feedzai.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "styleguide",
+    "feedzai"
+  ],
+  "author": "Victor Fernandes <victor.fernandes@feedzai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedzai/eslint-config-feedzai/issues"
+  },
+  "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
+  "dependencies": {
+    "@feedzai/eslint-config-feedzai": "^1.0.1",
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.18.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  },
+  "peerDependencies": {
+    "@feedzai/eslint-config-feedzai": "^1.0.1",
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.18.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
