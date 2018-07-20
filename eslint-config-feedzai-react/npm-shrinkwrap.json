@@ -1,6 +1,6 @@
 {
   "name": "@feedzai/eslint-config-feedzai-react",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
