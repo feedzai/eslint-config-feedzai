@@ -162,6 +162,9 @@ module.exports = {
         "func-call-spacing": ["error", "never"],
 
         // Enforce consistent spacing inside braces
-        "object-curly-spacing": ["error", "always"]
+        "object-curly-spacing": ["error", "always"],
+
+        // Don't allow multiple new lines
+        "no-multiple-empty-lines": ["error"]
     }
 };
