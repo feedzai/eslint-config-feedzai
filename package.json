@@ -19,6 +19,16 @@
     "javascript"
   ],
   "author": "Victor Fernandes <victor.fernandes@feedzai.com>",
+  "contributors": [
+    {
+      "name": "Victor Fernandes",
+      "email": "victor.fernandes@feedzai.com"
+    },
+    {
+      "name": "João César",
+      "email": "joao.cesar@feedzai.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/feedzai/eslint-config-feedzai/issues"
