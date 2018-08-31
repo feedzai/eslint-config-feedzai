@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
   "dependencies": {
-    "@feedzai/eslint-config-feedzai": "^1.0.1",
+    "@feedzai/eslint-config-feedzai": "^1.1.0",
     "eslint": "^5.1.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jest": "^21.18.0",
