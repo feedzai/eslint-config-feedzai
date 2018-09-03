@@ -5,9 +5,9 @@
   "requires": true,
   "dependencies": {
     "@feedzai/eslint-config-feedzai": {
-      "version": "1.0.1",
-      "resolved": "https://registry.npmjs.org/@feedzai/eslint-config-feedzai/-/eslint-config-feedzai-1.0.1.tgz",
-      "integrity": "sha512-Lh397Ffdp4eW37Dh64lzyGaxgT8ewPECM8tkhY8bWz26JDfYEwUZWW9zzZnsiJozoYrhcG1E/8CeQY5qCJ4opQ==",
+      "version": "1.1.0",
+      "resolved": "https://registry.npmjs.org/@feedzai/eslint-config-feedzai/-/eslint-config-feedzai-1.1.0.tgz",
+      "integrity": "sha512-FdiBulyRhLBQ/9L9hPySb/Or2q0AMEiEHelRc+IZKdrCongd5evIdL1XP+Kc/p91LslqcUwArNug3HxIUcj7dw==",
       "requires": {
         "eslint": "^5.1.0",
         "eslint-plugin-import": "^2.13.0"
