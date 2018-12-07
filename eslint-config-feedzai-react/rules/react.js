@@ -129,16 +129,16 @@ module.exports = {
                 "static-methods",
                 "lifecycle",
                 "event-handlers",
-                "rendering",
-                "everything-else"
+                "everything-else",
+                "rendering"
             ],
             "groups": {
                 "event-handlers": [
                     "/^_?on.+$/"
                 ],
                 "rendering": [
-                    "render",
-                    "/^_?render.+$/"
+                    "/^_?render.+$/",
+                    "render"
                 ]
             }
         }]
