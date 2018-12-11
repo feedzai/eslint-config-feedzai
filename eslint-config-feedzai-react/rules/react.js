@@ -115,7 +115,6 @@ module.exports = {
         "react/jsx-pascal-case": "error",
 
         // Prevent missing parentheses around multiline JSX
-        "react/jsx-wrap-multilines": "error",
         "react/jsx-wrap-multilines": ["error", {
             "declaration": "parens-new-line",
             "assignment": "parens-new-line",
