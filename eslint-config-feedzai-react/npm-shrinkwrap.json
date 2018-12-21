@@ -5,12 +5,12 @@
     "@babel/code-frame": {
       "version": "7.0.0",
       "from": "@babel/code-frame@>=7.0.0 <8.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/@babel/code-frame/-/code-frame-7.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.0.0.tgz"
     },
     "@babel/highlight": {
       "version": "7.0.0",
       "from": "@babel/highlight@>=7.0.0 <8.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/@babel/highlight/-/highlight-7.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/@babel/highlight/-/highlight-7.0.0.tgz"
     },
     "@feedzai/eslint-config-feedzai": {
       "version": "1.1.0",
@@ -948,17 +948,17 @@
     "acorn": {
       "version": "6.0.4",
       "from": "acorn@>=6.0.2 <7.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/acorn/-/acorn-6.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/acorn/-/acorn-6.0.4.tgz"
     },
     "acorn-jsx": {
       "version": "5.0.1",
       "from": "acorn-jsx@>=5.0.0 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/acorn-jsx/-/acorn-jsx-5.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.0.1.tgz"
     },
     "ajv": {
       "version": "6.6.2",
       "from": "ajv@>=6.5.3 <7.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/ajv/-/ajv-6.6.2.tgz"
+      "resolved": "https://registry.npmjs.org/ajv/-/ajv-6.6.2.tgz"
     },
     "ansi-escapes": {
       "version": "3.1.0",
@@ -998,12 +998,12 @@
     "astral-regex": {
       "version": "1.0.0",
       "from": "astral-regex@>=1.0.0 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/astral-regex/-/astral-regex-1.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/astral-regex/-/astral-regex-1.0.0.tgz"
     },
     "axobject-query": {
       "version": "2.0.2",
       "from": "axobject-query@>=2.0.1 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/axobject-query/-/axobject-query-2.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/axobject-query/-/axobject-query-2.0.2.tgz"
     },
     "balanced-match": {
       "version": "1.0.0",
@@ -1038,7 +1038,7 @@
     "chardet": {
       "version": "0.7.0",
       "from": "chardet@>=0.7.0 <0.8.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/chardet/-/chardet-0.7.0.tgz"
+      "resolved": "https://registry.npmjs.org/chardet/-/chardet-0.7.0.tgz"
     },
     "circular-json": {
       "version": "0.3.3",
@@ -1058,17 +1058,17 @@
     "color-convert": {
       "version": "1.9.3",
       "from": "color-convert@>=1.9.0 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/color-convert/-/color-convert-1.9.3.tgz"
+      "resolved": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
     },
     "color-name": {
       "version": "1.1.3",
       "from": "color-name@1.1.3",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/color-name/-/color-name-1.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz"
     },
     "commander": {
       "version": "2.19.0",
       "from": "commander@>=2.11.0 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/commander/-/commander-2.19.0.tgz"
+      "resolved": "https://registry.npmjs.org/commander/-/commander-2.19.0.tgz"
     },
     "concat-map": {
       "version": "0.0.1",
@@ -1093,7 +1093,7 @@
     "debug": {
       "version": "4.1.0",
       "from": "debug@>=4.0.1 <5.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/debug/-/debug-4.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/debug/-/debug-4.1.0.tgz"
     },
     "deep-is": {
       "version": "0.1.3",
@@ -1103,7 +1103,7 @@
     "define-properties": {
       "version": "1.1.3",
       "from": "define-properties@>=1.1.2 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/define-properties/-/define-properties-1.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/define-properties/-/define-properties-1.1.3.tgz"
     },
     "doctrine": {
       "version": "2.1.0",
@@ -1128,7 +1128,7 @@
     "es-to-primitive": {
       "version": "1.2.0",
       "from": "es-to-primitive@>=1.1.1 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/es-to-primitive/-/es-to-primitive-1.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/es-to-primitive/-/es-to-primitive-1.2.0.tgz"
     },
     "escape-string-regexp": {
       "version": "1.0.5",
@@ -1138,7 +1138,7 @@
     "eslint": {
       "version": "5.10.0",
       "from": "eslint@>=5.10.0 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/eslint/-/eslint-5.10.0.tgz"
+      "resolved": "https://registry.npmjs.org/eslint/-/eslint-5.10.0.tgz"
     },
     "eslint-import-resolver-node": {
       "version": "0.3.2",
@@ -1177,7 +1177,7 @@
     "eslint-plugin-import": {
       "version": "2.14.0",
       "from": "eslint-plugin-import@>=2.14.0 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/eslint-plugin-import/-/eslint-plugin-import-2.14.0.tgz",
+      "resolved": "https://registry.npmjs.org/eslint-plugin-import/-/eslint-plugin-import-2.14.0.tgz",
       "dependencies": {
         "debug": {
           "version": "2.6.9",
@@ -1199,17 +1199,17 @@
     "eslint-plugin-jest": {
       "version": "21.27.2",
       "from": "eslint-plugin-jest@>=21.27.2 <22.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/eslint-plugin-jest/-/eslint-plugin-jest-21.27.2.tgz"
+      "resolved": "https://registry.npmjs.org/eslint-plugin-jest/-/eslint-plugin-jest-21.27.2.tgz"
     },
     "eslint-plugin-jsx-a11y": {
       "version": "6.1.2",
       "from": "eslint-plugin-jsx-a11y@>=6.1.2 <7.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.1.2.tgz"
+      "resolved": "https://registry.npmjs.org/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-6.1.2.tgz"
     },
     "eslint-plugin-react": {
       "version": "7.11.1",
       "from": "eslint-plugin-react@>=7.11.1 <8.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/eslint-plugin-react/-/eslint-plugin-react-7.11.1.tgz"
+      "resolved": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.11.1.tgz"
     },
     "eslint-scope": {
       "version": "4.0.0",
@@ -1229,7 +1229,7 @@
     "espree": {
       "version": "5.0.0",
       "from": "espree@>=5.0.0 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/espree/-/espree-5.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/espree/-/espree-5.0.0.tgz"
     },
     "esprima": {
       "version": "4.0.1",
@@ -1259,7 +1259,7 @@
     "external-editor": {
       "version": "3.0.3",
       "from": "external-editor@>=3.0.0 <4.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/external-editor/-/external-editor-3.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/external-editor/-/external-editor-3.0.3.tgz"
     },
     "fast-deep-equal": {
       "version": "2.0.1",
@@ -1294,7 +1294,7 @@
     "flat-cache": {
       "version": "1.3.4",
       "from": "flat-cache@>=1.2.1 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/flat-cache/-/flat-cache-1.3.4.tgz"
+      "resolved": "https://registry.npmjs.org/flat-cache/-/flat-cache-1.3.4.tgz"
     },
     "fs.realpath": {
       "version": "1.0.0",
@@ -1314,17 +1314,17 @@
     "glob": {
       "version": "7.1.3",
       "from": "glob@>=7.1.2 <8.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/glob/-/glob-7.1.3.tgz"
+      "resolved": "https://registry.npmjs.org/glob/-/glob-7.1.3.tgz"
     },
     "globals": {
       "version": "11.9.0",
       "from": "globals@>=11.7.0 <12.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/globals/-/globals-11.9.0.tgz"
+      "resolved": "https://registry.npmjs.org/globals/-/globals-11.9.0.tgz"
     },
     "graceful-fs": {
       "version": "4.1.15",
       "from": "graceful-fs@>=4.1.2 <5.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/graceful-fs/-/graceful-fs-4.1.15.tgz"
+      "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.15.tgz"
     },
     "has": {
       "version": "1.0.3",
@@ -1349,12 +1349,12 @@
     "iconv-lite": {
       "version": "0.4.24",
       "from": "iconv-lite@>=0.4.24 <0.5.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/iconv-lite/-/iconv-lite-0.4.24.tgz"
+      "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.24.tgz"
     },
     "ignore": {
       "version": "4.0.6",
       "from": "ignore@>=4.0.6 <5.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/ignore/-/ignore-4.0.6.tgz"
+      "resolved": "https://registry.npmjs.org/ignore/-/ignore-4.0.6.tgz"
     },
     "imurmurhash": {
       "version": "0.1.4",
@@ -1374,17 +1374,17 @@
     "inquirer": {
       "version": "6.2.1",
       "from": "inquirer@>=6.1.0 <7.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/inquirer/-/inquirer-6.2.1.tgz",
+      "resolved": "https://registry.npmjs.org/inquirer/-/inquirer-6.2.1.tgz",
       "dependencies": {
         "ansi-regex": {
           "version": "4.0.0",
           "from": "ansi-regex@>=4.0.0 <5.0.0",
-          "resolved": "https://maven.feedzai.com/content/groups/npm-all/ansi-regex/-/ansi-regex-4.0.0.tgz"
+          "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-4.0.0.tgz"
         },
         "strip-ansi": {
           "version": "5.0.0",
           "from": "strip-ansi@>=5.0.0 <6.0.0",
-          "resolved": "https://maven.feedzai.com/content/groups/npm-all/strip-ansi/-/strip-ansi-5.0.0.tgz"
+          "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.0.0.tgz"
         }
       }
     },
@@ -1426,7 +1426,7 @@
     "is-symbol": {
       "version": "1.0.2",
       "from": "is-symbol@>=1.0.2 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/is-symbol/-/is-symbol-1.0.2.tgz"
+      "resolved": "https://registry.npmjs.org/is-symbol/-/is-symbol-1.0.2.tgz"
     },
     "isarray": {
       "version": "1.0.0",
@@ -1441,7 +1441,7 @@
     "js-tokens": {
       "version": "4.0.0",
       "from": "js-tokens@>=4.0.0 <5.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/js-tokens/-/js-tokens-4.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz"
     },
     "js-yaml": {
       "version": "3.12.0",
@@ -1488,7 +1488,7 @@
     "lodash": {
       "version": "4.17.11",
       "from": "lodash@>=4.17.5 <5.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/lodash/-/lodash-4.17.11.tgz"
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
     },
     "loose-envify": {
       "version": "1.4.0",
@@ -1518,7 +1518,7 @@
     "ms": {
       "version": "2.1.1",
       "from": "ms@>=2.1.1 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/ms/-/ms-2.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/ms/-/ms-2.1.1.tgz"
     },
     "mute-stream": {
       "version": "0.0.7",
@@ -1533,7 +1533,7 @@
     "nice-try": {
       "version": "1.0.5",
       "from": "nice-try@>=1.0.4 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/nice-try/-/nice-try-1.0.5.tgz"
+      "resolved": "https://registry.npmjs.org/nice-try/-/nice-try-1.0.5.tgz"
     },
     "normalize-package-data": {
       "version": "2.4.0",
@@ -1613,7 +1613,7 @@
     "path-parse": {
       "version": "1.0.6",
       "from": "path-parse@>=1.0.6 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/path-parse/-/path-parse-1.0.6.tgz"
+      "resolved": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.6.tgz"
     },
     "path-type": {
       "version": "2.0.0",
@@ -1653,7 +1653,7 @@
     "progress": {
       "version": "2.0.3",
       "from": "progress@>=2.0.0 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/progress/-/progress-2.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
     },
     "prop-types": {
       "version": "15.6.2",
@@ -1685,7 +1685,7 @@
     "regexpp": {
       "version": "2.0.1",
       "from": "regexpp@>=2.0.1 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/regexpp/-/regexpp-2.0.1.tgz"
+      "resolved": "https://registry.npmjs.org/regexpp/-/regexpp-2.0.1.tgz"
     },
     "require-uncached": {
       "version": "1.0.3",
@@ -1695,7 +1695,7 @@
     "resolve": {
       "version": "1.9.0",
       "from": "resolve@>=1.6.0 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/resolve/-/resolve-1.9.0.tgz"
+      "resolved": "https://registry.npmjs.org/resolve/-/resolve-1.9.0.tgz"
     },
     "resolve-from": {
       "version": "1.0.1",
@@ -1720,7 +1720,7 @@
     "rxjs": {
       "version": "6.3.3",
       "from": "rxjs@>=6.1.0 <7.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/rxjs/-/rxjs-6.3.3.tgz"
+      "resolved": "https://registry.npmjs.org/rxjs/-/rxjs-6.3.3.tgz"
     },
     "safer-buffer": {
       "version": "2.1.2",
@@ -1730,7 +1730,7 @@
     "semver": {
       "version": "5.6.0",
       "from": "semver@>=5.5.1 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/semver/-/semver-5.6.0.tgz"
+      "resolved": "https://registry.npmjs.org/semver/-/semver-5.6.0.tgz"
     },
     "shebang-command": {
       "version": "1.2.0",
@@ -1750,17 +1750,17 @@
     "slice-ansi": {
       "version": "2.0.0",
       "from": "slice-ansi@2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/slice-ansi/-/slice-ansi-2.0.0.tgz"
+      "resolved": "https://registry.npmjs.org/slice-ansi/-/slice-ansi-2.0.0.tgz"
     },
     "spdx-correct": {
       "version": "3.1.0",
       "from": "spdx-correct@>=3.0.0 <4.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/spdx-correct/-/spdx-correct-3.1.0.tgz"
+      "resolved": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-3.1.0.tgz"
     },
     "spdx-exceptions": {
       "version": "2.2.0",
       "from": "spdx-exceptions@>=2.1.0 <3.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/spdx-exceptions/-/spdx-exceptions-2.2.0.tgz"
+      "resolved": "https://registry.npmjs.org/spdx-exceptions/-/spdx-exceptions-2.2.0.tgz"
     },
     "spdx-expression-parse": {
       "version": "3.0.0",
@@ -1770,7 +1770,7 @@
     "spdx-license-ids": {
       "version": "3.0.3",
       "from": "spdx-license-ids@>=3.0.0 <4.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/spdx-license-ids/-/spdx-license-ids-3.0.3.tgz"
+      "resolved": "https://registry.npmjs.org/spdx-license-ids/-/spdx-license-ids-3.0.3.tgz"
     },
     "sprintf-js": {
       "version": "1.0.3",
@@ -1800,12 +1800,12 @@
     "supports-color": {
       "version": "5.5.0",
       "from": "supports-color@>=5.3.0 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/supports-color/-/supports-color-5.5.0.tgz"
+      "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz"
     },
     "table": {
       "version": "5.1.1",
       "from": "table@>=5.0.2 <6.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/table/-/table-5.1.1.tgz"
+      "resolved": "https://registry.npmjs.org/table/-/table-5.1.1.tgz"
     },
     "text-table": {
       "version": "0.2.0",
@@ -1825,7 +1825,7 @@
     "tslib": {
       "version": "1.9.3",
       "from": "tslib@>=1.9.0 <2.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/tslib/-/tslib-1.9.3.tgz"
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-1.9.3.tgz"
     },
     "type-check": {
       "version": "0.3.2",
@@ -1840,7 +1840,7 @@
     "validate-npm-package-license": {
       "version": "3.0.4",
       "from": "validate-npm-package-license@>=3.0.1 <4.0.0",
-      "resolved": "https://maven.feedzai.com/content/groups/npm-all/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/validate-npm-package-license/-/validate-npm-package-license-3.0.4.tgz"
     },
     "which": {
       "version": "1.3.1",
