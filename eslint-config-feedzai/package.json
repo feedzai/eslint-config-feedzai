@@ -30,11 +30,11 @@
   "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
   "devDependencies": {},
   "dependencies": {
-    "eslint": "^5.1.0",
-    "eslint-plugin-import": "^2.13.0"
+    "eslint": "^5.10.0",
+    "eslint-plugin-import": "^2.14.0"
   },
   "peerDependencies": {
-    "eslint": "^5.1.0",
-    "eslint-plugin-import": "^2.13.0"
+    "eslint": "^5.10.0",
+    "eslint-plugin-import": "^2.14.0"
   }
 }
