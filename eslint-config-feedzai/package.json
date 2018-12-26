@@ -1,6 +1,6 @@
 {
   "name": "@feedzai/eslint-config-feedzai",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Feedzai's base JS ESLint extensible configuration",
   "main": "index.js",
   "scripts": {
