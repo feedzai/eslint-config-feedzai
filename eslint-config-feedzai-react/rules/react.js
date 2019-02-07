@@ -149,7 +149,36 @@ module.exports = {
                     "render"
                 ]
             }
-        }]
+        }],
+
+        // Prevent using this.state within a this.setState
+        "react/no-access-state-in-setstate": "error",
+
+        // Prevent usage of .bind() in JSX props
+        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md
+        "react/jsx-no-bind": ["warn", {
+            ignoreRefs: true,
+            allowArrowFunctions: true,
+            allowFunctions: false,
+            allowBind: false,
+            ignoreDOMComponents: true
+        }],
+
+        // Prevent extra closing tags for components without children
+        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/self-closing-comp.md
+        "react/self-closing-comp": "error",
+
+        // Validate closing bracket location in JSX
+        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-closing-bracket-location.md
+        "react/jsx-closing-bracket-location": ["error", "line-aligned"],
+
+        // Enforce boolean attributes notation in JSX
+        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-boolean-value.md
+        "react/jsx-boolean-value": ["error", "never", { always: [] }],
+
+        // Require that the first prop in a JSX element be on a new line when the element is multiline
+        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-first-prop-new-line.md
+        "react/jsx-first-prop-new-line": ["error", "multiline-multiprop"]
     },
 
     settings: {

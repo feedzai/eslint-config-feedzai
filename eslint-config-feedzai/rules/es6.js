@@ -63,6 +63,18 @@ module.exports = {
         "template-curly-spacing": "error",
 
         // /!\ Disallow template literal placeholder syntax in regular strings
-        "no-template-curly-in-string": "warn"
+        "no-template-curly-in-string": "warn",
+
+        // require method and property shorthand syntax for object literals
+        // https://eslint.org/docs/rules/object-shorthand
+        "object-shorthand": ["error", "always", {
+            ignoreConstructors: false,
+            avoidQuotes: true
+        }],
+
+        // disallow importing from the same path more than once
+        // https://eslint.org/docs/rules/no-duplicate-imports
+        // replaced by https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/no-duplicates.md
+        "no-duplicate-imports": "off"
     }
 };
