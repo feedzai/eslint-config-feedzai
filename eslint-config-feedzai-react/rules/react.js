@@ -70,7 +70,7 @@ module.exports = {
         // Prevent duplicate properties in JSX
         "react/jsx-no-duplicate-props": "error",
 
-        // Prevent duplicate properties in JSX
+        // Prevent undeclared variables in JSX
         "react/jsx-no-undef": "error",
 
         // Prevent React to be incorrectly marked as unused
