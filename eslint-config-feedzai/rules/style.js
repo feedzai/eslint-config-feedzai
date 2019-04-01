@@ -165,6 +165,24 @@ module.exports = {
         "object-curly-spacing": ["error", "always"],
 
         // Don't allow multiple new lines
-        "no-multiple-empty-lines": ["error"]
+        "no-multiple-empty-lines": ["error"],
+
+        // Requires operator at the beginning of the line in multiline statements
+        // https://eslint.org/docs/rules/operator-linebreak
+        "operator-linebreak": ["error", "before", { overrides: { "=": "none" } }],
+
+        // enforce consistent line breaks inside function parentheses
+        // https://eslint.org/docs/rules/function-paren-newline
+        "function-paren-newline": ["error", "consistent"],
+
+        // disallow padding within blocks
+        "padded-blocks": ["error", { blocks: "never", classes: "never", switches: "never" }],
+
+        // require or disallow space before blocks
+        "space-before-blocks": "error",
+
+        // Enforce the location of arrow function bodies with implicit returns
+        // https://eslint.org/docs/rules/implicit-arrow-linebreak
+        "implicit-arrow-linebreak": ["error", "beside"]
     }
 };
