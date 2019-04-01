@@ -172,10 +172,6 @@ module.exports = {
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-closing-bracket-location.md
         "react/jsx-closing-bracket-location": ["error", "line-aligned"],
 
-        // Enforce boolean attributes notation in JSX
-        // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-boolean-value.md
-        "react/jsx-boolean-value": ["error", "never", { always: [] }],
-
         // Require that the first prop in a JSX element be on a new line when the element is multiline
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-first-prop-new-line.md
         "react/jsx-first-prop-new-line": ["error", "multiline-multiprop"]
