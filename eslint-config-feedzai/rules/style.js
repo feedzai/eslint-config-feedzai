@@ -6,6 +6,10 @@
  */
 
 module.exports = {
+    plugins: [
+        "import"
+    ],
+
     rules: {
 
         // Enforce spaces
@@ -183,6 +187,19 @@ module.exports = {
 
         // Enforce the location of arrow function bodies with implicit returns
         // https://eslint.org/docs/rules/implicit-arrow-linebreak
-        "implicit-arrow-linebreak": ["error", "beside"]
+        "implicit-arrow-linebreak": ["error", "beside"],
+
+        // Enforce a convention in module import order
+        // https://github.com/benmosher/eslint-plugin-import/blob/master/docs/rules/order.md
+        "import/order": ["error", {
+            "groups": [
+                "builtin", // Built-in types are first
+                "external", // Then external modules
+                "internal", // Then internal modules
+                "parent", // Then parent types
+                "sibling", // Then sibling types
+                "index" // Then the index file
+            ]
+        }]
     }
 };
