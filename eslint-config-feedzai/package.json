@@ -28,13 +28,12 @@
     "url": "https://github.com/feedzai/eslint-config-feedzai/issues"
   },
   "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
-  "devDependencies": {},
-  "dependencies": {
-    "eslint": "^5.10.0",
-    "eslint-plugin-import": "^2.17.2"
-  },
   "peerDependencies": {
-    "eslint": "^5.10.0",
-    "eslint-plugin-import": "^2.17.2"
+    "eslint": "^6.0.1",
+    "eslint-plugin-import": "^2.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-import": "^2.18.0"
   }
 }
