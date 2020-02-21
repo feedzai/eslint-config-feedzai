@@ -1,7 +1,7 @@
 /**
- * React Rules
+ * React Hooks Rules
  *
- * @author Victor Fernandes (victor.fernandes@feedzai.com)
+ * @author João César (joao.cesar@feedzai.com)
  * @since 1.0.0
  */
 
