@@ -10,6 +10,7 @@ module.exports = {
         "@feedzai/eslint-config-feedzai",
         "./rules/jest",
         "./rules/react",
+        "./rules/react-hooks",
         "./rules/react-a11y"
     ].map(require.resolve),
 
