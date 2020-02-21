@@ -15,6 +15,6 @@ module.exports = {
 
         // Rule that verifies the list of dependencies in methods like useEffect, useCallback, etc
         // https://github.com/facebook/react/issues/14920
-        "react-hooks/exhaustive-deps": "warn"
+        "react-hooks/exhaustive-deps": "error"
     }
 };
