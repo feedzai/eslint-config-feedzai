@@ -29,11 +29,11 @@
   },
   "homepage": "https://github.com/feedzai/eslint-config-feedzai#readme",
   "peerDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint": "^8.32.0",
+    "eslint-plugin-import": "^2.27.5"
   },
   "devDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint": "^8.32.0",
+    "eslint-plugin-import": "^2.27.5"
   }
 }
